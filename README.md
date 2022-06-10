@@ -3,7 +3,7 @@
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Mondini&theme=radical"/> 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Mondini&hide=contribs,prs)
+<img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Mondini](https://github-readme-stats.vercel.app/api?username=Lucas-Mondini&hide=contribs,prs)&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondini&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Mondini&theme=radical&hide_border=true"/>
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
