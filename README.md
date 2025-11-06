@@ -7,8 +7,7 @@
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
     A tech Lover. 
-	Working as Backend Engineer for JL Software
-	Working as Fullstack consultant for Neomind
+	Working as Software Engineer for Sparklight
 	
   
 ###  ⚙️ Some Tool and Tech I use:     
